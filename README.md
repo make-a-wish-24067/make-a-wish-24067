@@ -12,4 +12,4 @@ Some quick information about me » <br />
 
 # Some ~~Crappy~~ Amazing Info :smirk: »
 (That you probably don't need in your life) #letmelive <br />
-![Monoessence's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chimchim-for-life&show_icons=true&theme=dracula) <br />
+![Monoessence's GitHub Stats](https://github-readme-stats.vercel.app/api?username=make-a-wish-24067&show_icons=true&theme=dracula) <br />
