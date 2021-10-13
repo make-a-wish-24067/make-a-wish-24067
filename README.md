@@ -11,5 +11,5 @@ Some quick information about me » <br />
 ↬ Save Me~ Save Me~                           
 
 # Some ~~Crappy~~ Amazing Info :smirk: »
-(that you probably don't need in your life)<br />
+(That you probably don't need in your life) #letmelive <br />
 ![Monoessence's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chimchim-for-life&show_icons=true&theme=dracula) <br />
